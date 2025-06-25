@@ -1,0 +1,7 @@
+[UI]
+# Chain of Thought (CoT) display mode
+# Can be "hidden", "tool_call" or "full"
+cot = "full"
+
+# Show the steps in the UI
+show_readme_as_default = true
